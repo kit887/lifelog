@@ -1,4 +1,58 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "ja"
+title = "kit_lifelog"
 theme = "hugo-kiera"
+copyright = "Copyright &copy; 2021 - kit887"
+
+paginate = 3
+summaryLength = 60
+#canonifyurls = true # 相対パスではなく baseurl を基点とした絶対パスにする
+hasCJKLanguage = true
+enableEmoji = true
+pygmentsCodeFences = true
+#pygmentsstyle = "solarizedlight"
+#PygmentsOptions = "linenos=table,nobackground=true"
+#disqusShortname = "myShortName"
+
+# Note: to disable a social network icon delete or comment out the corresponding line
+
+[author]
+    name = "kit887"
+    github = "kit887"
+    #gitlab = "username"
+    #linkedin = "username"
+    #facebook = "username"
+    twitter = "kit_887"
+    #instagram = "username"
+    #stackoverflow = "username"
+    #youtube = "user/username" # or channel/channelname
+    #devto = "username"
+
+[params]
+    tagline = "A Hugo theme for creative and technical writing"
+    description = "Kiera: A Hugo theme for creative and technical writing."
+    #images = [""] #This is used for opengraph/twitter cards.
+    customCSS = []  #Optional Customised CSS
+    #favicon = ""
+    #utterancesRepo = "username/repository"
+    #utterancesIssueTerm = "pathname"
+    #homepageLength = 10
+    #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
+    #mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
+    #katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
+    #google_fonts = ["Staatliches"] # Adds additional google fonts
+    #disableDarkModeCSS = false # disables css style for users using dark-mode
+
+# uncomment to enable the Tags link on the main toolbar
+#  [[menu.main]]
+#    identifier = "tags"
+#    name = "Tags"
+#    url = "/tags"
+#    weight = 1
+
+# uncomment to enable the Categories link on the main toolbar
+#  [[menu.main]]
+#    identifier = "categories"
+#    name = "Categories"
+#    url = "/categories"
+#    weight = 1
