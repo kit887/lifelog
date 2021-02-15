@@ -4,7 +4,7 @@ title = "kit_lifelog"
 theme = "hugo-kiera"
 copyright = "Copyright &copy; 2021 - kit887"
 
-paginate = 3
+paginate = 5
 summaryLength = 60
 #canonifyurls = true # 相対パスではなく baseurl を基点とした絶対パスにする
 hasCJKLanguage = true
@@ -29,8 +29,8 @@ pygmentsCodeFences = true
     #devto = "username"
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
-    description = "Kiera: A Hugo theme for creative and technical writing."
+    tagline = "おんなじこと何度も検索しない"
+    description = "おんなじことを何度も検索しない未来を目指して作ったライフログです。"
     #images = [""] #This is used for opengraph/twitter cards.
     customCSS = []  #Optional Customised CSS
     #favicon = ""
