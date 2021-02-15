@@ -6,6 +6,15 @@
   <title>{{ if and (not .IsHome) (.Title) }}{{ .Params.Title }} - {{ end }}{{ .Site.Title }}</title>
   {{ partial "meta" . }}
   {{ partialCached "header_includes" . -}}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-78Q5W548Q0"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-78Q5W548Q0');
+  </script>
 </head>
 
 <body>
