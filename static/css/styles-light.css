@@ -13,7 +13,11 @@ h4,
 h5,
 h6,
 time {
-  font-family: "Ruda", sans-serif;
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: 600;
+}
+pre, code, kbd, samp, var {
+  font-family:"Hack","Monaco",'Source Han Code JP';
 }
 
 #container {
@@ -42,7 +46,7 @@ time {
 }
 
 #container header h1 {
-  font-size: 2.4rem;
+  font-size: 2.0rem;
 }
 
 #container header h1 a {
@@ -73,7 +77,7 @@ time {
 #container nav {
   border-bottom: solid 3px #cecece;
   padding-bottom: 0.5em;
-  font-family: "Ruda", sans-serif;
+  font-family: "Roboto Slab", sans-serif;
 }
 
 #container nav a {
@@ -110,7 +114,7 @@ time {
 
 #container main section#home ul li {
   margin: 0.5em 0;
-  padding-bottom: 0.5em;
+  padding-bottom: 1.2em;
 }
 
 #container main section#home ul li h2 {
@@ -170,8 +174,9 @@ time {
 
 #container main article p code {
   padding: 0.2em;
-  background-color: #ffcccc;
-  font-size: 0.9em;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  font-size: 0.8em;
 }
 
 #container main article p kbd {
@@ -250,7 +255,7 @@ width: 100%;
 
 .meta-aside, #container main section#home ul li aside, #container main article aside {
   margin: 0.5em 0;
-  font-family: "Ruda", sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   color: #909090;
   font-size: 0.8em;
 }
@@ -268,8 +273,18 @@ width: 100%;
 
 a {
   color: #666666;
-  /*text-decoration: none;*/
+  text-decoration: none;
 }
+a:hover {
+  text-decoration: underline;
+}
+h1 a:hover {
+  text-decoration: none;
+}
+p a {
+  text-decoration: underline;*/
+}
+
 
 .image, figure img, img {
   width: 100%;
