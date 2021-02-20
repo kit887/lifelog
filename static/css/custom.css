@@ -1,7 +1,11 @@
 
 .ad_wrapper_aftercontents {
    overflow: hidden;
-    margin: 0 50;
+    padding: 20px 0;
+    border-top: solid 1px #cecece;
+    margin: 10px 30px;
+    display: inline-block;
+    
 }
 
 .ad-300x250 {
