@@ -4,7 +4,7 @@ date = 2021-02-13T16:15:51+09:00
 images = []
 tags = ["github"]
 categories = ["未分類"]
-draft = true
+draft = false
 +++
 
 昨日このログ用のドメインを取ったとき、名前+llogでドメインを取ろうとしたところ、よく使ってる名前のものは既に埋まっていたので次点でたまに使うkit+llogにしたのですが、githubのidと合わないので変更しました。

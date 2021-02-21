@@ -5,7 +5,7 @@ slug = ""
 images = []
 tags = ["ホットクック",]
 categories = ["ごはん"]
-draft = true
+draft = false
 +++
 朝ごはん用のタンパク質をまとめて作ろうと思い立ち、サラダチキンを作りました。
 <!--more-->
