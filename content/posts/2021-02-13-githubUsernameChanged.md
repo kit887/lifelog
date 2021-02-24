@@ -10,8 +10,8 @@ draft = false
 昨日このログ用のドメインを取ったとき、名前+llogでドメインを取ろうとしたところ、よく使ってる名前のものは既に埋まっていたので次点でたまに使うkit+llogにしたのですが、githubのidと合わないので変更しました。
 <!--more-->
 ## 変更点
-[GitHubのユーザー名を変更してみた - 一から勉強させてください](https://dangerous-animal141.hatenablog.com/entry/2014/05/05/000000)
-[GitHub ユーザ名の変更 - GitHub Docs](https://docs.github.com/ja/github/setting-up-and-managing-your-github-user-account/changing-your-github-username)
+[GitHubのユーザー名を変更してみた - 一から勉強させてください](https://dangerous-animal141.hatenablog.com/entry/2014/05/05/000000)  
+[GitHub ユーザ名の変更 - GitHub Docs](https://docs.github.com/ja/github/setting-up-and-managing-your-github-user-account/changing-your-github-username)  
 
 上記を参考にユーザー名とローカルリポジトリのoriginを変更しました。
 

@@ -7,7 +7,7 @@ tags = ["hugo","netlify"]
 categories = ["未分類"]
 draft = false
 +++
-<!--more-->
+
 HUGOで作ったサイトを今回久しぶりにNetlifyでホストしようと思って、旧石器時代の記憶のとおりに
 
 ```
@@ -27,8 +27,8 @@ Command failed with exit code 255: hugo -D
 と冷たく言われたので、半べそかきながら新時代の方法に対応しました。
 <!--more-->
 
-やり方はすべて[ここ](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)に英語で書いてありますが、英語なのでやり方を簡単にメモしておきます。  
-[Host on Netlify | Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
+やり方はすべて[ここ](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)に英語で書いてありますが、英語なのでやり方を簡単にメモしておきます。    
+[Host on Netlify | Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)  
 
 ## その① netlify.tomlを作る
 ルートディレクトリに作る。内容はこう。
