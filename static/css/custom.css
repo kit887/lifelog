@@ -1,4 +1,43 @@
+/* styles-light,darkの置き換え用 */
+time {
+    font-family: "Roboto Slab", sans-serif;
+    font-weight: 600;
+ }
+ pre, code, kbd, samp, var {
+   font-family:"Hack","Monaco",'Source Han Code JP';
+     }
+#container header h1 {
+  font-size: 2.0rem;
+}
+#container nav {
+  font-family: "Roboto Slab", sans-serif;
+}
+#container main section#home ul li {
+  padding-bottom: 1.2em;
+}
+#container main article p code {
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  font-size: 0.8em;
+}
+.meta-aside, #container main section#home ul li aside, #container main article aside {
+  font-family: "Roboto Slab", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1 a:hover {
+  text-decoration: none;
+}
+p a {
+  text-decoration: underline;*/
+}
 
+
+/* adsenseダミー用 */
 .ad_wrapper_aftercontents {
    overflow: hidden;
     padding: 20px 0;
