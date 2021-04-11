@@ -43,6 +43,26 @@ p a {
     font-size: 0.9em;
 }
 
+/* adsense用 */
+.adsense {
+    padding: 20px 0;
+    border-top: solid 1px #cecece;
+    margin: 10px 30px;
+    display: inline-block;
+}
+.adsense .adslot_PC {
+    width: 300px;
+    max-width: 100%;
+    height: 250px;
+    float: left;
+    display:inline-block;
+}
+  @media (max-width: 800px) { 
+      .adsense .adslot_PC { display: none; } }
+  @media (min-width: 800px) {
+      .adsense .adslot_SP { display: none; } }
+
+
 /* adsenseダミー用 */
 .ad_wrapper_aftercontents {
    overflow: hidden;
