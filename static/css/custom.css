@@ -33,9 +33,15 @@ h1 a:hover {
   text-decoration: none;
 }
 p a {
-  text-decoration: underline;*/
+  text-decoration: underline;
 }
 
+/* 一覧のときのコードブロックSPで突き出す問題対応 */
+#home li pre{
+    overflow-x: auto;
+    padding: 0.8em;
+    font-size: 0.9em;
+}
 
 /* adsenseダミー用 */
 .ad_wrapper_aftercontents {
