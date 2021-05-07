@@ -56,11 +56,11 @@ p a {
     height: 250px;
     float: left;
     display:inline-block;
-}*/
-  @media (max-width: 800px) { 
+}
+  @media (max-width: 800px) {
       .adsense .adslot_PC { display: none; } }
   @media (min-width: 800px) {
-      .adsense .adslot_SP { display: none; } }
+      .adsense .adslot_SP { display: none; } }*/
 
 
 /* adsenseダミー用 */
