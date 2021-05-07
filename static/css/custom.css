@@ -44,7 +44,7 @@ p a {
 }
 
 /* adsense用 */
-.adsense {
+/*.adsense {
     padding: 20px 0;
     border-top: solid 1px #cecece;
     margin: 10px 30px;
@@ -56,7 +56,7 @@ p a {
     height: 250px;
     float: left;
     display:inline-block;
-}
+}*/
   @media (max-width: 800px) { 
       .adsense .adslot_PC { display: none; } }
   @media (min-width: 800px) {
