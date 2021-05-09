@@ -1,6 +1,6 @@
 baseURL = "https://www.kitllog.com/"
 languageCode = "ja"
-title = "kit_lifelog"
+title = "history does rhyme"
 theme = "hugo-kiera"
 copyright = "Copyright &copy; 2021 - kit887"
 
@@ -30,7 +30,7 @@ pygmentsCodeFences = true
 
 [params]
     tagline = "おんなじこと何度もぐぐりたくない"
-    description = "おんなじことを何度も検索しない未来を目指して作ったライフログです。"
+    description = "Kitのライフログです。同じことを何度もググらないよう、いろいろな細かい情報をまとめています。"
     #images = [""] #This is used for opengraph/twitter cards.
     customCSS = ["/css/custom.css"]  #Optional Customised CSS
     favicon = "/images/favicon_io/favicon-32x32.png"
