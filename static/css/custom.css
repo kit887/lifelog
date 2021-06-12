@@ -57,6 +57,10 @@ p a {
     background-color: #333333;
     text-align: center;
 }
+@media only screen and (max-width: 800px) {
+    .adsense-before {
+        background-color: transparent;
+    } }
 /*.adsense .adslot_PC {
     width: 300px;
     max-width: 100%;
