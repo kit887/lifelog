@@ -1,7 +1,6 @@
 +++
 title = "食物語の話"
 date = 2021-06-14T00:00:00+09:00
-slug = ""
 images = ["/images/post/2021-06-14_syokumono.png"]
 tags = ["食物語","game"]
 categories = ["未分類"]
